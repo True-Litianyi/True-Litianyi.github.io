@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LITIANYI"
+title                    : "LITIANYI Personal HomePage"
 title_separator          : "-"
 name                     : &name "Litianyi"
 description              : &description "Senior Undergraduate of ShanghaiTech University&Prospective Eng.D of ShanghaiTech University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Li Tianyi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Undergraduate of ShanghaiTech University&Prospective Eng.D of ShanghaiTech University"
+  location         : "Shanghai, PRC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lity2@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
