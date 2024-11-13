@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "LITIANYI Personal HomePage"
 title_separator          : "-"
 name                     : &name "Litianyi"
-description              : &description "Senior Undergraduate of ShanghaiTech University&Prospective Eng.D of ShanghaiTech University"
+description              : &description "Eng.D student of ShanghaiTech University & Zhangjiang National Laboratory"
 url                      : https://True-Litianyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Li Tianyi"
   avatar           : "My_photo.jpg"
-  bio              : "Senior Undergraduate of ShanghaiTech University&Prospective Eng.D of ShanghaiTech University"
+  bio              : "Eng.D student of ShanghaiTech University & Zhangjiang National Laboratory"
   location         : "Shanghai, PRC"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "lity2@shanghaitech.edu.cn"
+  email            : "lity2024@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
