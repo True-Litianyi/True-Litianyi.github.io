@@ -1,16 +1,12 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing an Eng.D degree in Electronic Engineering, supervised by Prof. Geng Hao at ShanghaiTech University, the research track is focused on computational lithography EDA.
 
 #### Email
-sli[at]cumt.edu.cn
+lity2024[at]shanghaitech.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.E., Electronic Engineering, ShanghaiTech University & Zhangjiang National Laboratory, 2024—2029 (expected).\
+B.E., Electronic Engineering, ShanghaiTech University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computational Lithography, Artificial Intelligence for Intergrated Circuits, Analog/Mixed-Signal Integrated Circuit Design.
 
