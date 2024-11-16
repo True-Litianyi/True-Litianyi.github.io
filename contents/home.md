@@ -1,4 +1,4 @@
-I am currently pursuing an Eng.D degree in Electronic Engineering, supervised by Prof. Geng Hao at ShanghaiTech University and Zhangjiang National Laboratory. My research track is focused on computational lithography EDA.
+I am currently pursuing an Eng.D degree in Electronic Engineering, supervised by [Prof. Geng Hao](https://true-genghao.github.io/genghao/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn) and Zhangjiang National Laboratory. My research track is focused on computational lithography EDA.
 
 #### Email
 lity2024@shanghaitech.edu.cn
