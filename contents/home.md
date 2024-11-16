@@ -4,7 +4,7 @@ I am currently pursuing an Eng.D degree in Electronic Engineering, supervised by
 lity2024@shanghaitech.edu.cn
 
 #### Education
-D.E., Electronic Engineering, ShanghaiTech University & Zhangjiang National Laboratory, 2024—2029 (expected).\
+D.E., Electronic Engineering, ShanghaiTech University & Zhangjiang Laboratory, 2024—2029 (expected).\
 B.E., Electronic Engineering, ShanghaiTech University, 2020—2024.
 
 #### Research Interests
