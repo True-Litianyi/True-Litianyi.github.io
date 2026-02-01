@@ -1,4 +1,6 @@
 <!-- - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL) -->
+-  <strong>Tianyi Li*</strong>, Kai Ma*, Yiwen Wu, Jiaqi Liu, Jingyi Yu, Hao Geng, "Shot Splatting: Pioneering Shot-aware MPC for VSB Mask Data Preparation", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <strong>(TCAD)</strong>.
+
 -  Kai Ma*, <strong>Tianyi Li*</strong>, Jiaqi Liu, Jingyi Yu, Hao Geng, “No Pixel, More Efficient: Multimodal Framework for Sub-nm Mask Process Correction", IEEE/ACM Proceedings Design, Automation and Test in Europe <strong>(DATE)</strong>, Verona, Italy, Apr. 20–22, 2026.
 
 - Donger Luo*, <strong>Tianyi Li*</strong>, Xinheng Li, Qi Sun, Cheng Zhuo, Bei Yu, Jingyi Yu, Hao Geng, “LLM-Augmented Multi-Modal Fusion for SoC Design Space Exploration”, IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, Munich, Oct. 26–30, 2025.
