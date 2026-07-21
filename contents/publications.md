@@ -1,4 +1,7 @@
--  Wenxuan Dong, <strong>Tianyi Li</strong>, Kai Ma, Zhen Wang, Hanbin Dong, Nan Wang, Su Zheng, Xinyun Zhang, Jingyi Yu, Hao Geng, "UniMRC: A Differentiable Multimodal Framework for Unified Curvilinear-Manhattan Mask Rule Checking", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
+-  Shenshuo Yao, Liuke Wang, Yuyang Chen, Yinuo Zhu, Zhen Wang, Jiajie Zhang, <strong>Tianyi Li</strong>, Yiwen Wu, Xinheng Li, Kai Ma, Nan Wang, Wenxuan Dong, Xinyun Zhang, Jingyi Yu, Hao Geng, "Ariadne’s Thread: A Multimodal Benchmark Weaving Point Solutions into Process Chains for AI-Driven Computational Lithography", IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, San Jose, Nov. 08–12, 2026.
+
+
+-  Wenxuan Dong, <strong>Tianyi Li</strong>, Kai Ma, Zhen Wang, Hanbin Dong, Nan Wang, Su Zheng, Xinyun Zhang, Jingyi Yu, Hao Geng, "UniMRC: A Differentiable Multimodal Framework for Unified Curvilinear-Manhattan Mask Rule Checking", IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, San Jose, Nov. 08–12, 2026.
 
 -  Donger Luo, Yihong Yi, Xinheng Li, <strong>Tianyi Li</strong>, Jianwang Zhai, Qi Sun, Cheng Zhuo, Hao Geng, "Compilation Tells Energy: Rethinking Power Modeling for DNN Accelerator Agile Design", ACM/IEEE Design Automation Conference <strong>(DAC)</strong>, Long Beach, July. 26-29, 2026.
 
